@@ -1,4 +1,4 @@
-# awesome-programming
+ # awesome-programming
 Revelations of experienced kamikazes of programming
 
 > [If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.](https://murphyslaws.net/by_topic.htm)
@@ -7,7 +7,7 @@ A curated list of words, sounds and cries from programming underworld.
 
 ## System programming
 
-### [The Night Watch](https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens
+### [The Night Watch](https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens [(mirror)](https://www.usenix.org/system/files/1311_05-08_mickens.pdf)
 
 > You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis
 
