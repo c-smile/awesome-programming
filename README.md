@@ -1,6 +1,8 @@
 # awesome-programming
 Revelations of experienced kamikazes of programming
 
+> [If builders built buildings the way programmers wrote programs, then the first woodpecker that came along would destroy civilization.](https://murphyslaws.net/by_topic.htm)
+
 A curated list of words, sounds and cries from programming underworld.
 
 ## System programming
