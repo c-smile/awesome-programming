@@ -5,7 +5,7 @@ A curated list of words, sounds and cries from programming underworld.
 
 ## System programming
 
-[The Night Watch] (https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens
+[The Night Watch](https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens
 
 > You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis
 
