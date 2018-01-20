@@ -5,7 +5,7 @@ A curated list of words, sounds and cries from programming underworld.
 
 ## System programming
 
-[The Night Watch](https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens
+### [The Night Watch](https://coeleveld.com/wp-content/uploads/2016/06/thenightwatch.pdf) by James Mickens
 
 > You can’t just place a LISP book on top of an x86 chip and hope that the hardware learns about lambda calculus by osmosis
 
@@ -15,7 +15,7 @@ A curated list of words, sounds and cries from programming underworld.
 > about hex numbers and their relationships with the operating system, the hardware, and ancient blood 
 > rituals that Bjarne Stroustrup performed at Stonehenge. 
 
-[Programming Sucks](https://www.stilldrinking.org/programming-sucks) by Peter Welch
+### [Programming Sucks](https://www.stilldrinking.org/programming-sucks) by Peter Welch
 
 > Every programmer occasionally, when nobody’s home, turns off the lights, pours a glass of scotch,
 > puts on some light German electronica, and opens up a file on their computer. It’s a different 
@@ -25,7 +25,7 @@ A curated list of words, sounds and cries from programming underworld.
 
 ## Web programming 
 
-[Parsing HTML with RegEx](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) by bobince et al.
+### [Parsing HTML with RegEx](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) by bobince et al.
 
 > Every time you attempt to parse HTML with regular expressions, the unholy child 
 > weeps the blood of virgins, and Russian hackers pwn your webapp. Parsing HTML
