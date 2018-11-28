@@ -33,3 +33,9 @@ A curated list of words, sounds and cries from programming underworld.
 > weeps the blood of virgins, and Russian hackers pwn your webapp. Parsing HTML
 > with regex summons tainted souls into the realm of the living. HTML and regex 
 > go together like love, marriage, and ritual infanticide.
+
+## Programming books
+
+[Collection of O'rly book covers](https://boyter.org/2016/04/collection-orly-book-covers/)
+
+![Googling for Regex](https://boyter.org/static/books/Cn1rWcbWcAAgsCA.jpg)
