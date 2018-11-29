@@ -38,6 +38,6 @@ A curated list of words, sounds and cries from programming underworld.
 
 [Collection of O'rly book covers](https://boyter.org/2016/04/collection-orly-book-covers/)
 
-![Googling for Regex](https://boyter.org/static/books/Cn1rWcbWcAAgsCA.jpg)
+<img src="https://boyter.org/static/books/Cn1rWcbWcAAgsCA.jpg" width=480 alt="Googling for Regex">
 
-![How to write code](http://i.imgur.com/8zHVNTr.jpg)
+<img src="http://i.imgur.com/8zHVNTr.jpg" alt="How to write code" width=480>
