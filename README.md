@@ -39,3 +39,5 @@ A curated list of words, sounds and cries from programming underworld.
 [Collection of O'rly book covers](https://boyter.org/2016/04/collection-orly-book-covers/)
 
 ![Googling for Regex](https://boyter.org/static/books/Cn1rWcbWcAAgsCA.jpg)
+
+![How to write code](http://i.imgur.com/8zHVNTr.jpg)
