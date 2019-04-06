@@ -25,6 +25,10 @@ A curated list of words, sounds and cries from programming underworld.
 > They read over the lines, and weep at their beauty, then the tears turn bitter as they remember 
 > the rest of the files and the inevitable collapse of all that is good and true in the world.
 
+### [Real Programmers ...](https://www.ee.ryerson.ca/~elf/hack/realmen.html) by Ed Post
+
+Classics from the beginning of times...
+
 ## Web programming 
 
 ### [Parsing HTML with RegEx](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) by bobince et al.
