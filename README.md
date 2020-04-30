@@ -45,3 +45,34 @@ Classics from the beginning of times...
 <img src="https://boyter.org/static/books/Cn1rWcbWcAAgsCA.jpg" width=480 alt="Googling for Regex">
 
 <img src="http://i.imgur.com/8zHVNTr.jpg" alt="How to write code" width=480>
+
+## Software Folklore 
+
+> Note: Taken from [Andreas Zwinkau blog](http://beza1e1.tuxen.de/lore/index.html). Text copied from their page and pasted into my [html-notepad](https://html-notepad.com), [switched to Markdown](https://html-notepad.com/wp-content/uploads/2018/11/Markdown.png) and pasted here.
+
+Sometimes bugs have symptoms beyond belief. This is a collection of such stories from around the web.
+
+* [Car Allergic to Vanilla Ice Cream](http://beza1e1.tuxen.de/lore/allergic_car.html)
+* [Crash Bandicoot](http://beza1e1.tuxen.de/lore/crash_bandicoot.html)
+* [Crash Cows](http://beza1e1.tuxen.de/lore/crash_cows.html)
+* [Crashes only on Wednesdays](http://beza1e1.tuxen.de/lore/crash_wednesdays.html)
+* [Down by Tubes](http://beza1e1.tuxen.de/lore/tubes.html)
+* [Fail on certain Moon Phases](http://beza1e1.tuxen.de/lore/moon_phases.html)
+* [Flushing the Toilet Stops the Train](http://beza1e1.tuxen.de/lore/flushed.html)
+* [In the Middle of Large Print Jobs](http://beza1e1.tuxen.de/lore/sparkling_tile.html)
+* [It's High Tide!](http://beza1e1.tuxen.de/lore/high_tide.html)
+* [Missile Control Deadlocks](http://beza1e1.tuxen.de/lore/missile_task.html)
+* [More Magic Switch](http://beza1e1.tuxen.de/lore/more_magic.html)
+* [OpenOffice does not print on Tuesdays](http://beza1e1.tuxen.de/lore/print_on_tuesday.html)
+* [Packets of Death](http://beza1e1.tuxen.de/lore/packets_of_death.html)
+* [Pallet Kills the Radio](http://beza1e1.tuxen.de/lore/pallet.html)
+* [Real Life Tron](http://beza1e1.tuxen.de/lore/real_life_tron.html)
+* [Sit Down for Log in](http://beza1e1.tuxen.de/lore/sit_down_for_login.html)
+* [The 500-mile Email](http://beza1e1.tuxen.de/lore/500mile_email.html)
+* [The little ssh that (sometimes) couldn't](http://beza1e1.tuxen.de/lore/little_ssh_couldnt.html)
+* [The Rock Music Filter](http://beza1e1.tuxen.de/lore/rock_filter.html)
+* [The Story of Mel](http://beza1e1.tuxen.de/lore/story_of_mel.html)
+* [The Woman Who Needed to Be Upside-Down](http://beza1e1.tuxen.de/lore/upside_down_women.html)
+* [Totally USB](http://beza1e1.tuxen.de/lore/totally_usb.html)
+
+
