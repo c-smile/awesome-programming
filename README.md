@@ -75,4 +75,9 @@ Sometimes bugs have symptoms beyond belief. This is a collection of such stories
 * [The Woman Who Needed to Be Upside-Down](http://beza1e1.tuxen.de/lore/upside_down_women.html)
 * [Totally USB](http://beza1e1.tuxen.de/lore/totally_usb.html)
 
+## Software/Technolgy Advertisement.
 
+Sometimes we need to let people know that a company is still alive. On H/N or somewhere else ... 
+Here is [the template of blog post](https://saagarjha.com/blog/2020/05/10/why-we-at-famous-company-switched-to-hyped-technology/) for that.
+
+> When $FAMOUS_COMPANY launched in 2010, it ran on a single server in $TECHBRO_FOUNDER’s garage. Since then, we’ve experienced explosive VC-funded growth and today we have hundreds of millions of daily active users (DAUs) from all around the globe accessing our products from our mobile apps and on $famouscompany.com. We’ve since made a couple of panic-induced changes to our backend to manage our technical debt (usually right after a high-profile outage) to keep our servers from keeling over. Our existing technology stack has served us well for all these years, but as we seek to grow further it’s clear that a complete rewrite of our application is something which will somehow prevent us from losing two billion dollars a year on customer acquisition.
