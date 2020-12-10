@@ -29,6 +29,10 @@ A curated list of words, sounds and cries from programming underworld.
 
 Classics from the beginning of times...
 
+### [How many GNU/Linux users are needed to change a light bulb?](https://www.gnu.org/fun/jokes/users-lightbulb.html)
+
+Oh, yeah. Been there, seen that. 100500 times.
+
 ## Web programming 
 
 ### [Parsing HTML with RegEx](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags/1732454#1732454) by bobince et al.
